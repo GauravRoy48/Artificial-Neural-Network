@@ -9,7 +9,7 @@
 
 Following steps to be run using **Anaconda Prompt.**
 
-**Step 1: **
+**Step 1:**
 
 Update conda
 
@@ -17,7 +17,7 @@ Update conda
 	conda update --all
 
 
-**Step 2: **
+**Step 2:**
 
 If you have **NVIDIA DEDICATED GRAPHICS** and want to utilize that for Keras then follow **Steps 4 to 6** in the given link:
 
@@ -27,7 +27,7 @@ https://github.com/antoniosehk/keras-tensorflow-windows-installation
 <br>If you want to utilize your CPU instead, then go to the next step.
 
 
-**Step 3:**
+<br>**Step 3:**
 
 If you want to use your **NVIDIA GPU **then run in Anaconda Prompt:
 
@@ -43,14 +43,14 @@ If you want to use your **CPU** then run in Anaconda Prompt:
 where `new_env` is the name of the new environment that you create.
 
 
-**Step 4:**
+<br>**Step 4:**
 
 Activate your new environment by running the following command in Anaconda Prompt:
 
 `conda activate new_env`
 
 
-**Step 5:**
+<br>**Step 5:**
 
 Open Anaconda Navigator and in the *Home* tab, you should be able to see a drop down box that gives you an option to switch between *base (root)*  and this new environment.
 
@@ -60,7 +60,7 @@ Everything should be working now.
 
 
 
-**NOTES:**
+<br>**NOTES:**
 
 More commands that may be required to handle the virtual environment.
 
