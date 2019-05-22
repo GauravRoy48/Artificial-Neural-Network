@@ -2,7 +2,7 @@
 - Python code for implementing ANN using ***Stochastic Gradient Descent*** on given dataset.
 - Spyder IDE used.
 
-<br>
+
 ## Installation Notes
 **Keras** can only run on **Python version 3.6** so we need to create a new virtual environment using conda to do that.
 
